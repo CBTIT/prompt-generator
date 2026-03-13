@@ -1,8 +1,9 @@
 {
   "name": "prompt-generator",
   "private": true,
-  "version": "0.0.0",
+  "version": "1.0.0",
   "type": "module",
+  "homepage": "https://cbtit.github.io/prompt-generator",
   "scripts": {
     "dev": "vite",
     "build": "tsc -b && vite build",

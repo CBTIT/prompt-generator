@@ -1,0 +1,49 @@
+.basic-selection {
+  display: flex;
+  flex-direction: row;
+  gap: 1rem;
+}
+.selection-group {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  max-width: 300px;
+}
+.selection-title {
+  font-weight: bold;
+  font-size: 1.5rem;
+}
+.sub-group-title {
+  font-weight: bold;
+}
+.prompt-form {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+}
+.submit-button {
+  font-weight: bold;
+  font-size: 1.5rem;
+  padding: 1rem;
+  max-height: 5rem;
+}
+.button-group {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
+.multi-selection-group {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+.submit-area {
+  display: flex;
+  flex-direction: row;
+  gap: 1.5rem;
+}
+.copy-button {
+  padding: 1rem;
+  font-weight: bold;
+  font-size: 1.5rem;
+}
